@@ -29,15 +29,11 @@ $ npm install
 
 - $ ```bash 
 npx create-next-app@latest```
-- $ ```bash npm run dev ``` Now go to `http://localhost:3000`, your app should be running 🤘
+- $ ```bash npm run dev ``` 
+<strong>Now go to `http://localhost:3000`, your app should be running </strong>🤘
 
 Open up a terminal pointing at `my-app directory` and execute this command:
-- $ ```bash 
-npm install web3modal
-```
-- $ ```bash 
-npm install dotenv
-```
+- $ ```bash npm install web3modal ```
 
 Note🚨 ➡ to interact with your smart contract in the folder `constants/index.js` write:
 
