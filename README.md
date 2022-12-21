@@ -8,7 +8,7 @@
   <br>
   <br>
 
-Making the frontend part of my project Whitelist!
+Making the frontend part of my project Whitelist smart contract!
 
 <hr>
 <h2> Installing / Getting started </h2>
@@ -46,7 +46,8 @@ export const abi = YOUR_ABI;
 - Next.js
 - Ethers.js
 - Web3Modal
-
+<hr>
+Hope you enjoy making this.
 <br>
 <br>
 
