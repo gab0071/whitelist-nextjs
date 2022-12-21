@@ -7,6 +7,8 @@
 
   <br>
   <br>
+  
+  <img src="./project.png">
 
 Making the frontend part of my project Whitelist smart contract!
 
