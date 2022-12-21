@@ -35,7 +35,7 @@ npx create-next-app@latest```
 <strong>Now go to `http://localhost:3000`, your app should be running </strong>🤘
 
 Open up a terminal pointing at `my-app directory` and execute this command:
-- $ ``` npm install web3modal ```
+- $ ``` npm install web3modal ethers ```
 
 Note🚨 ➡ to interact with your smart contract in the folder `constants/index.js` write:
 
